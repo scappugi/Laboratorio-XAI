@@ -1,0 +1,146 @@
+{
+  "0": {
+    "category": 0,
+    "cluster": 0,
+    "sentence": "we will not be liable , directly or indirectly , for any damage or loss caused or alleged to be caused by or in connection with your use of or reliance on any such content , goods or services available on or through any third party websites , content or mobile application . \n",
+    "pool_size": 91
+  },
+  "1": {
+    "category": 0,
+    "cluster": 1,
+    "sentence": "any direct , indirect , special , incidental , consequential or exemplary damages , under any theory of liability , including but not limited to contract , tort ( including negligence ) , damages for loss of data , profits and goodwill , arising out of the use , misuse or inability to use the service , or by any form of malware , whether or not the company was or should have been aware or advised of the possibility of such damages ; \n",
+    "pool_size": 51
+  },
+  "2": {
+    "category": 0,
+    "cluster": 2,
+    "sentence": "the viber group disclaims all liability , whether based in contract , tort ( including negligence ) , strict liability , or otherwise , and does not accept any liability for any loss or damage ( direct , indirect , punitive , actual , consequential , incidental , special , exemplary , or otherwise ) resulting from any use of , or inability to use , the service or any other site , app or service , or the material , information , software , facilities , services , or other content on the service or any other site , app or service , regardless of the basis upon which liability is claimed and even if any member of the viber group has been advised of the possibility of such loss or damage . \n",
+    "pool_size": 49
+  },
+  "3": {
+    "category": 1,
+    "cluster": 0,
+    "sentence": "we may , in our sole discretion , terminate or suspend your access to all or part of the service at any time , with or without notice , for any reason , including , without limitation , breach of this agreement . \n",
+    "pool_size": 69
+  },
+  "4": {
+    "category": 1,
+    "cluster": 1,
+    "sentence": "we may suspend , or terminate your access to or use of our services anytime for any reason , such as if you violate the letter or spirit of our terms and polices , or create harm , risk , or possible legal exposure for us , our users , or others . \n",
+    "pool_size": 51
+  },
+  "5": {
+    "category": 1,
+    "cluster": 2,
+    "sentence": "skype may at its option , terminate its relationship with you , or may suspend your subscription immediately if it determines you are using your subscription contrary to this fup or skype 's terms of use . \n",
+    "pool_size": 19
+  },
+  "6": {
+    "category": 2,
+    "cluster": 0,
+    "sentence": "we may change , suspend , or discontinue any or all of the services at any time , including the availability of any product , feature , database , or content . \n",
+    "pool_size": 52
+  },
+  "7": {
+    "category": 2,
+    "cluster": 1,
+    "sentence": "we may revise these terms of use at any time by amending this page . \n",
+    "pool_size": 50
+  },
+  "8": {
+    "category": 2,
+    "cluster": 2,
+    "sentence": "skype may change the charges payable for the purchase of such products at any time without any notice to you . \n",
+    "pool_size": 20
+  },
+  "9": {
+    "category": 3,
+    "cluster": 0,
+    "sentence": "viber may remove or modify any content without notice or liability at any time in viber 's sole discretion . \n",
+    "pool_size": 9
+  },
+  "10": {
+    "category": 3,
+    "cluster": 1,
+    "sentence": "we reserve the right , but are not obligated , to remove or disable access to any content , at any time and without notice , including but not limited to , if we , at our sole discretion , consider any content to be objectionable or in violation of these terms . \n",
+    "pool_size": 37
+  },
+  "11": {
+    "category": 3,
+    "cluster": 2,
+    "sentence": "upon suspension or termination , your right to use the resources we provide will immediately cease , and we reserve the right to remove or delete any information that you may have on file with us , including any account or login information . \n",
+    "pool_size": 27
+  },
+  "12": {
+    "category": 4,
+    "cluster": 0,
+    "sentence": "by using or accessing the services , you agree to become bound by all the terms and conditions of this agreement . \n",
+    "pool_size": 43
+  },
+  "13": {
+    "category": 4,
+    "cluster": 1,
+    "sentence": "your continued use of the service after the date the modified terms are posted will constitute your acceptance of the modified terms . \n",
+    "pool_size": 26
+  },
+  "14": {
+    "category": 4,
+    "cluster": 2,
+    "sentence": "by clicking on the accept button and/or continuing to install the software or use the software , products and/or skype websites , you expressly consent to be bound by its terms and conditions and grant to skype the rights set forth herein . \n",
+    "pool_size": 7
+  },
+  "15": {
+    "category": 5,
+    "cluster": 0,
+    "sentence": "these terms and any action related thereto will be governed by the laws of the state of california without regard to its conflict of laws provisions . \n",
+    "pool_size": 12
+  },
+  "16": {
+    "category": 5,
+    "cluster": 1,
+    "sentence": "these terms of use and any dispute or claim arising out of or in connection with them or their subject matter or formation ( including non-contractual disputes or claims ) shall be governed by and construed in accordance with the law of england and wales . \n",
+    "pool_size": 15
+  },
+  "17": {
+    "category": 5,
+    "cluster": 2,
+    "sentence": "solely in respect of users located in the eea and/or australia , the following governing law provisions shall apply : these terms of use and any disputes or claims arising out of or in connection with it shall be governed by , and construed in accordance with , the laws of england . \n",
+    "pool_size": 12
+  },
+  "18": {
+    "category": 6,
+    "cluster": 0,
+    "sentence": "if you are not subject to the `` special arbitration provision for united states or canada users '' section below , you agree that you will resolve any claim you have with us relating to , arising out of , or in any way in connection with our terms , us , or our services ( each , a `` dispute , '' and together , `` disputes '' ) exclusively in the united states district court for the northern district of california or a state court located in san mateo county in california , and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating all such disputes . \n",
+    "pool_size": 21
+  },
+  "19": {
+    "category": 6,
+    "cluster": 1,
+    "sentence": "all disputes or claims arising out of or relating to these terms of use shall be subject to the exclusive jurisdiction of the english courts to which the parties irrevocably submit . \n",
+    "pool_size": 12
+  },
+  "20": {
+    "category": 6,
+    "cluster": 2,
+    "sentence": "this is indicated in the chart as well . ) \n",
+    "pool_size": 1
+  },
+  "21": {
+    "category": 7,
+    "cluster": 0,
+    "sentence": "the company ( and its respective corporate parents , subsidiaries , affiliates , predecessors in interest , successors , permitted assigns ) , you and any other parties on whose behalf you are accessing the service agree to arbitration ( except for matters that may be taken to small claims court ) , as the exclusive form of dispute resolution except as provided for below , for all disputes and claims arising out of or relating to this eula or the service . \n",
+    "pool_size": 17
+  },
+  "22": {
+    "category": 7,
+    "cluster": 1,
+    "sentence": "the exclusive means of resolving any dispute or claim arising out of or relating to this agreement ( including any alleged breach thereof ) or the service shall be binding arbitration administered by the american arbitration association under the consumer arbitration rules . \n",
+    "pool_size": 8
+  },
+  "23": {
+    "category": 7,
+    "cluster": 2,
+    "sentence": "if you are a masquerade user located in the united states or canada , our terms contain a binding arbitration provision , which states that , except if you opt out and except for certain types of disputes , masquerade and you agree to resolve all disputes through binding individual arbitration , which means that you waive your right to participate in class actions , class arbitrations , or representative actions . \n",
+    "pool_size": 3
+  }
+}
